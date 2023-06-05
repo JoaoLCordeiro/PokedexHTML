@@ -55,7 +55,7 @@ if __name__ == '__main__':
     criaTabela(386-251)
     criaTabela(494-386)
     criaTabela(459-494)
-    criaTabela(649-494)
+    criaTabela(649-459)
     criaTabela(721-649)
     criaTabela(809-721)
     criaTabela(905-809)
