@@ -28,7 +28,11 @@ def criaTabela(quant):
         htmldex.write(" <tr>\n")
         htmldex.write("     <td>" + linha[0] + "</td>\n")
         htmldex.write("     <td>" + linha[1] + "</td>\n")
-        htmldex.write("     <td>" + "None" + "</td>\n")
+        if (linha[2] == "None"):
+            htmldex.write("     <td>" + linha[2] + "</td>\n")
+        else:
+            htmldex.write("     <td>" + "<a href=\"" + linha[2]
+                          + "\">carta</a>" + "</td>\n")
         htmldex.write(" </tr>\n")
 
 
