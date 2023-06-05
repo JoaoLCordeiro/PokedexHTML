@@ -19,6 +19,19 @@ CABECALHOTABELA = " <tr>\n\
     <th>Carta</th>\n\
     </tr>\n"
 
+
+def criaTabela(quant):
+    htmldex.write("<table style=\"width:100%\">\n")
+    htmldex.write(CABECALHOTABELA)
+    for i in range(quant):
+        linha = next(csvpoke)
+        htmldex.write(" <tr>\n")
+        htmldex.write("     <td>" + linha[0] + "</td>\n")
+        htmldex.write("     <td>" + linha[1] + "</td>\n")
+        htmldex.write("     <td>" + "None" + "</td>\n")
+        htmldex.write(" </tr>\n")
+
+
 if __name__ == '__main__':
     # começa a main do programa
 
@@ -33,15 +46,16 @@ if __name__ == '__main__':
 
     htmldex.write(CABECALHOHTML)
 
-    htmldex.write("<table style=\"width:100%\">\n")
-    htmldex.write(CABECALHOTABELA)
-    for i in range(151):
-        linha = next(csvpoke)
-        htmldex.write(" <tr>\n")
-        htmldex.write("     <td>" + linha[0] + "</td>\n")
-        htmldex.write("     <td>" + linha[1] + "</td>\n")
-        htmldex.write("     <td>" + "None" + "</td>\n")
-        htmldex.write(" </tr>\n")
+    criaTabela(151)
+    criaTabela(251-151)
+    criaTabela(386-251)
+    criaTabela(494-386)
+    criaTabela(459-494)
+    criaTabela(649-494)
+    criaTabela(721-649)
+    criaTabela(809-721)
+    criaTabela(905-809)
+    criaTabela(1010-905)
 
     htmldex.write("</table>")
     htmldex.write("</body>\n\
