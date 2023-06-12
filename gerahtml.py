@@ -34,7 +34,8 @@ def criaTabela(quant):
             # htmldex.write("     <td>" + "<a href=\"" + linha[2]
             #              + "\">carta</a>" + "</td>\n")
             htmldex.write("     <td>" + "<img src=\"" + linha[2]
-                          + "\">" + "</td>\n")
+                          + "\" style=\"width:125px;height:175px;\">"
+                          + "</td>\n")
         htmldex.write(" </tr>\n")
 
 
