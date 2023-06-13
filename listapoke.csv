@@ -39,9 +39,9 @@ Number,Name,Card
 038,Ninetales,https://assets.pokemon.com/assets/cms2-pt-br/img/cards/web/SWSH1/SWSH1_PT-BR_23.png
 039,Jigglypuff,None
 040,Wigglytuff,None
-041,Zubat,https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ebay.com%2Fitm%2F175547886595&psig=AOvVaw0brxoc0zPVnvXQyu82Aazb&ust=1686699374728000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDvuPryvv8CFQAAAAAdAAAAABAE
+041,Zubat,https://images.pokemoncard.io/images/swsh12/swsh12-103_hiresopt.jpg
 042,Golbat,None
-043,Oddish,https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F201132%2Fpokemon-sm-cosmic-eclipse-oddish&psig=AOvVaw251tf1n1AtJrhwRLlwcssa&ust=1686699398415000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOj_2IXzvv8CFQAAAAAdAAAAABAE
+043,Oddish,https://images.pokemoncard.io/images/sm12/sm12-2_hiresopt.jpg
 044,Gloom,https://repositorio.sbrauble.com/arquivos/in/pokemon_bkp/cd/163/842_3.jpg
 045,Vileplume,None
 046,Paras,https://cdn.shopify.com/s/files/1/0634/7194/3915/products/e21db80b-ea5b-4d9d-93ed-dcacc75ae4f1_fa89e0fc-f3a6-4b10-b90c-e6d8b0d9f95a.png?v=1680790120
@@ -84,7 +84,7 @@ Number,Name,Card
 083,Farfetch'd,https://product-images.tcgplayer.com/241743.jpg
 084,Doduo,None
 085,Dodrio,None
-086,Seel,https://m.media-amazon.com/images/I/51YGxwCmoOL._AC_UF894,1000_QL80_.jpg
+086,Seel,https://images.pokemoncard.io/images/xy10/xy10-15_hiresopt.jpg
 087,Dewgong,None
 088,Grimer,https://product-images.tcgplayer.com/201172.jpg
 089,Muk,None
@@ -162,7 +162,7 @@ Number,Name,Card
 161,Sentret,None
 162,Furret,None
 163,Hoothoot,https://img.mypcards.com/img/2/986/pokemon_bus_106_147/pokemon_bus_106_147_en.jpg
-164,Noctowl,https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FPokemon-Noctowl-120-162-BREAKthrough%2Fdp%2FB016VKB9P2&psig=AOvVaw2m8pA3PM-1HI0iReEBGgZP&ust=1686700956421000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCJzuz4vv8CFQAAAAAdAAAAABAQ
+164,Noctowl,https://images.pokemoncard.io/images/xy8/xy8-120_hiresopt.jpg
 165,Ledyba,https://cdn.shopify.com/s/files/1/1515/2596/products/SWSH06_PTBR_4-2x.jpg?v=1684235528
 166,Ledian,https://cdn.shopify.com/s/files/1/1515/2596/products/SWSH06_PTBR_5-2x.jpg?v=1684235529
 167,Spinarak,https://i.ebayimg.com/images/g/XTgAAOSwShpjp8z4/s-l1600.jpg
@@ -207,8 +207,8 @@ Number,Name,Card
 206,Dunsparce,None
 207,Gligar,None
 208,Steelix,None
-209,Snubbull,https://m.media-amazon.com/images/I/51Zncg4mLFL._AC_UF894,1000_QL80_.jpg
-210,Granbull,https://m.media-amazon.com/images/I/51Zncg4mLFL._AC_UF894,1000_QL80_.jpg
+209,Snubbull,https://images.pokemoncard.io/images/xy8/xy8-98_hiresopt.jpg
+210,Granbull,https://images.pokemoncard.io/images/xy8/xy8-99_hiresopt.jpg
 211,Qwilfish,https://i.ebayimg.com/images/g/71cAAOSw445juBfL/s-l400.jpg
 212,Scizor,None
 213,Shuckle,None
