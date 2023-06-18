@@ -66,7 +66,7 @@ Number,Name,Card
 065,Alakazam,None
 066,Machop,https://images.pokemoncard.io/images/sm2/sm2-62_hiresopt.jpg
 067,Machoke,None
-068,Machamp,None
+068,Machamp,https://images.pokemoncard.io/images/swshp/swshp-SWSH053_hiresopt.jpg
 069,Bellsprout,None
 070,Weepinbell,None
 071,Victreebel,None
@@ -92,7 +92,7 @@ Number,Name,Card
 091,Cloyster,None
 092,Gastly,https://images.pokemoncard.io/images/swsh11/swsh11-64_hiresopt.jpg
 093,Haunter,https://images.pokemoncard.io/images/swsh6/swsh6-56_hiresopt.jpg
-094,Gengar,None
+094,Gengar,https://images.pokemoncard.io/images/swshp/swshp-SWSH052_hiresopt.jpg
 095,Onix,https://images.pokemoncard.io/images/sm12/sm12-105_hiresopt.jpg
 096,Drowzee,https://images.pokemoncard.io/images/swsh12/swsh12-60_hiresopt.jpg
 097,Hypno,https://images.pokemoncard.io/images/swsh7/swsh7-62_hiresopt.jpg
@@ -129,7 +129,7 @@ Number,Name,Card
 128,Tauros,None
 129,Magikarp,None
 130,Gyarados,None
-131,Lapras,https://images.pokemoncard.io/images/mcd22/mcd22-6_hiresopt.jpg
+131,Lapras,https://images.pokemoncard.io/images/swshp/swshp-SWSH051_hiresopt.jpg
 132,Ditto,None
 133,Eevee,https://images.pokemoncard.io/images/sm12/sm12-166_hiresopt.jpg
 134,Vaporeon,https://images.pokemoncard.io/images/sm12/sm12-42_hiresopt.jpg
@@ -148,8 +148,8 @@ Number,Name,Card
 147,Dratini,None
 148,Dragonair,None
 149,Dragonite,None
-150,Mewtwo,None
-151,Mew,None
+150,Mewtwo,https://images.pokemoncard.io/images/smp/smp-SM214_hiresopt.jpg
+151,Mew,https://images.pokemoncard.io/images/smp/smp-SM215_hiresopt.jpg
 152,Chikorita,None
 153,Bayleef,None
 154,Meganium,None
@@ -837,7 +837,7 @@ Number,Name,Card
 836,Boltund,None
 837,Rolycoly,None
 838,Carkol,None
-839,Coalossal,None
+839,Coalossal,https://images.pokemoncard.io/images/swshp/swshp-SWSH054_hiresopt.jpg
 840,Applin,None
 841,Flapple,None
 842,Appletun,None
