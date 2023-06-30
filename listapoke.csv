@@ -2,7 +2,7 @@ Number,Name,Card
 001,Bulbasaur,None
 002,Ivysaur,None
 003,Venusaur,None
-004,Charmander,None
+004,Charmander,https://images.pokemoncard.io/images/sm3/sm3-18_hiresopt.jpg
 005,Charmeleon,None
 006,Charizard,https://images.pokemoncard.io/images/swsh4/swsh4-25_hiresopt.jpg
 007,Squirtle,None
@@ -52,7 +52,7 @@ Number,Name,Card
 051,Dugtrio,https://images.pokemoncard.io/images/swsh1/swsh1-93_hiresopt.jpg
 052,Meowth,https://images.pokemoncard.io/images/sm3/sm3-101_hiresopt.jpg
 053,Persian,https://images.pokemoncard.io/images/g1/g1-54_hiresopt.jpg
-054,Psyduck,https://images.pokemoncard.io/images/sm12/sm12-40_hiresopt.jpg
+054,Psyduck,https://images.pokemoncard.io/images/sm9/sm9-26_hiresopt.jpg
 055,Golduck,https://images.pokemoncard.io/images/sm12/sm12-41_hiresopt.jpg
 056,Mankey,None
 057,Primeape,None
@@ -326,7 +326,7 @@ Number,Name,Card
 325,Spoink,None
 326,Grumpig,None
 327,Spinda,None
-328,Trapinch,https://images.pokemoncard.io/images/sm12/sm12-108_hiresopt.jpg
+328,Trapinch,https://images.pokemoncard.io/images/sm12/sm12-107_hiresopt.jpg
 329,Vibrava,https://images.pokemoncard.io/images/sm12/sm12-109_hiresopt.jpg
 330,Flygon,None
 331,Cacnea,https://images.pokemoncard.io/images/xy8/xy8-4_hiresopt.jpg
@@ -359,7 +359,7 @@ Number,Name,Card
 358,Chimecho,None
 359,Absol,https://images.pokemoncard.io/images/sm12/sm12-133_hiresopt.jpg
 360,Wynaut,None
-361,Snorunt,https://images.pokemoncard.io/images/swsh6/swsh6-35_hiresopt.jpg
+361,Snorunt,https://images.pokemoncard.io/images/sm12/sm12-47_hiresopt.jpg
 362,Glalie,None
 363,Spheal,https://images.pokemoncard.io/images/swsh6/swsh6-37_hiresopt.jpg
 364,Sealeo,https://images.pokemoncard.io/images/swsh6/swsh6-38_hiresopt.jpg
@@ -394,7 +394,7 @@ Number,Name,Card
 393,Piplup,https://images.pokemoncard.io/images/sm12/sm12-54_hiresopt.jpg
 394,Prinplup,https://images.pokemoncard.io/images/sm12/sm12-55_hiresopt.jpg
 395,Empoleon,https://images.pokemoncard.io/images/sm12/sm12-56_hiresopt.jpg
-396,Starly,None
+396,Starly,https://images.pokemoncard.io/images/sv1/sv1-148_hiresopt.jpg
 397,Staravia,None
 398,Staraptor,None
 399,Bidoof,None
@@ -416,7 +416,7 @@ Number,Name,Card
 415,Combee,https://images.pokemoncard.io/images/sv2/sv2-8_hiresopt.jpg
 416,Vespiquen,None
 417,Pachirisu,https://images.pokemoncard.io/images/swsh9/swsh9-52_hiresopt.jpg
-418,Buizel,None
+418,Buizel,https://images.pokemoncard.io/images/sv1/sv1-46_hiresopt.jpg
 419,Floatzel,None
 420,Cherubi,None
 421,Cherrim,None
@@ -446,7 +446,7 @@ Number,Name,Card
 445,Garchomp,None
 446,Munchlax,None
 447,Riolu,None
-448,Lucario,None
+448,Lucario,https://images.pokemoncard.io/images/sm3/sm3-71_hiresopt.jpg
 449,Hippopotas,None
 450,Hippowdon,None
 451,Skorupi,None
@@ -462,7 +462,7 @@ Number,Name,Card
 461,Weavile,None
 462,Magnezone,https://images.pokemoncard.io/images/sm12/sm12-44_hiresopt.jpg
 463,Lickilicky,https://images.pokemoncard.io/images/swsh11/swsh11-139_hiresopt.jpg
-464,Rhyperior,None
+464,Rhyperior,https://images.pokemoncard.io/images/swsh1/swsh1-99_hiresopt.jpg
 465,Tangrowth,https://images.pokemoncard.io/images/sm12/sm12-6_hiresopt.jpg
 466,Electivire,None
 467,Magmortar,None
@@ -475,8 +475,8 @@ Number,Name,Card
 474,Porygon-Z,https://images.pokemoncard.io/images/swsh11/swsh11-142_hiresopt.jpg
 475,Gallade,None
 476,Probopass,https://images.pokemoncard.io/images/sm12/sm12-141_hiresopt.jpg
-477,Dusknoir,None
-478,Froslass,None
+477,Dusknoir,https://images.pokemoncard.io/images/sm12/sm12-85_hiresopt.jpg
+478,Froslass,https://images.pokemoncard.io/images/swsh6/swsh6-36_hiresopt.jpg
 479,Rotom,https://images.pokemoncard.io/images/sm12/sm12-86_hiresopt.jpg
 480,Uxie,None
 481,Mesprit,None
@@ -528,7 +528,7 @@ Number,Name,Card
 527,Woobat,https://images.pokemoncard.io/images/sm12/sm12-87_hiresopt.jpg
 528,Swoobat,https://images.pokemoncard.io/images/sm12/sm12-88_hiresopt.jpg
 529,Drilbur,https://images.pokemoncard.io/images/sm12/sm12-114_hiresopt.jpg
-530,Excadrill,None
+530,Excadrill,https://images.pokemoncard.io/images/sm12/sm12-115_hiresopt.jpg
 531,Audino,None
 532,Timburr,None
 533,Gurdurr,None
@@ -544,7 +544,7 @@ Number,Name,Card
 543,Venipede,https://images.pokemoncard.io/images/swsh6/swsh6-105_hiresopt.jpg
 544,Whirlipede,https://images.pokemoncard.io/images/swsh6/swsh6-106_hiresopt.jpg
 545,Scolipede,https://images.pokemoncard.io/images/swsh6/swsh6-107_hiresopt.jpg
-546,Cottonee,https://images.pokemoncard.io/images/xy7/xy7-55_hiresopt.jpg
+546,Cottonee,https://images.pokemoncard.io/images/swsh1/swsh1-5_hiresopt.jpg
 547,Whimsicott,https://images.pokemoncard.io/images/sm2/sm2-91_hiresopt.jpg
 548,Petilil,None
 549,Lilligant,None
@@ -621,7 +621,7 @@ Number,Name,Card
 620,Mienshao,None
 621,Druddigon,None
 622,Golett,https://images.pokemoncard.io/images/sm12/sm12-89_hiresopt.jpg
-623,Golurk,https://images.pokemoncard.io/images/swsh6/swsh6-66_hiresopt.jpg
+623,Golurk,https://images.pokemoncard.io/images/sm12/sm12-90_hiresopt.jpg
 624,Pawniard,https://images.pokemoncard.io/images/sm12/sm12-134_hiresopt.jpg
 625,Bisharp,https://images.pokemoncard.io/images/sm12/sm12-135_hiresopt.jpg
 626,Bouffalant,None
@@ -648,7 +648,7 @@ Number,Name,Card
 647,Keldeo,None
 648,Meloetta,None
 649,Genesect,None
-650,Chespin,https://images.pokemoncard.io/images/xy8/xy8-9_hiresopt.jpg
+650,Chespin,https://images.pokemoncard.io/images/xy0/xy0-3_hiresopt.jpg
 651,Quilladin,None
 652,Chesnaught,None
 653,Fennekin,https://images.pokemontcg.io/xy10/10_hires.png
@@ -698,7 +698,7 @@ Number,Name,Card
 697,Tyrantrum,None
 698,Amaura,None
 699,Aurorus,None
-700,Sylveon,None
+700,Sylveon,https://images.pokemoncard.io/images/sm12/sm12-155_hiresopt.jpg
 701,Hawlucha,None
 702,Dedenne,None
 703,Carbink,https://images.pokemoncard.io/images/xy10/xy10-50_hiresopt.jpg
@@ -720,7 +720,7 @@ Number,Name,Card
 719,Diancie,None
 720,Hoopa,None
 721,Volcanion,None
-722,Rowlet,https://images.pokemoncard.io/images/sm12/sm12-18_hiresopt.jpg
+722,Rowlet,https://images.pokemoncard.io/images/sm12/sm12-17_hiresopt.jpg
 723,Dartrix,None
 724,Decidueye,None
 725,Litten,https://images.pokemoncard.io/images/sm9/sm9-20_hiresopt.jpg
@@ -737,13 +737,13 @@ Number,Name,Card
 736,Grubbin,None
 737,Charjabug,None
 738,Vikavolt,None
-739,Crabrawler,https://images.pokemoncard.io/images/sm12/sm12-121_hiresopt.jpg
+739,Crabrawler,https://images.pokemoncard.io/images/swsh6/swsh6-84_hiresopt.jpg
 740,Crabominable,https://images.pokemoncard.io/images/swsh6/swsh6-85_hiresopt.jpg
 741,Oricorio,None
 742,Cutiefly,https://images.pokemoncard.io/images/sm3/sm3-95_hiresopt.jpg
 743,Ribombee,https://images.pokemoncard.io/images/swsh7/swsh7-79_hiresopt.jpg
 744,Rockruff,https://images.pokemoncard.io/images/swsh6/swsh6-86_hiresopt.jpg
-745,Lycanroc,None
+745,Lycanroc,https://images.pokemoncard.io/images/swsh6/swsh6-87_hiresopt.jpg
 746,Wishiwashi,None
 747,Mareanie,None
 748,Toxapex,None
@@ -760,8 +760,8 @@ Number,Name,Card
 759,Stufful,https://images.pokemoncard.io/images/sm12/sm12-181_hiresopt.jpg
 760,Bewear,None
 761,Bounsweet,https://images.pokemoncard.io/images/swsh6/swsh6-13_hiresopt.jpg
-762,Steenee,None
-763,Tsareena,None
+762,Steenee,https://images.pokemoncard.io/images/swsh6/swsh6-14_hiresopt.jpg
+763,Tsareena,https://images.pokemoncard.io/images/swsh6/swsh6-15_hiresopt.jpg
 764,Comfey,None
 765,Oranguru,None
 766,Passimian,https://images.pokemoncard.io/images/sm12/sm12-125_hiresopt.jpg
@@ -790,7 +790,7 @@ Number,Name,Card
 789,Cosmog,https://images.pokemoncard.io/images/sm12/sm12-99_hiresopt.jpg
 790,Cosmoem,https://images.pokemoncard.io/images/sm12/sm12-101_hiresopt.jpg
 791,Solgaleo,None
-792,Lunala,None
+792,Lunala,https://images.pokemoncard.io/images/sm12/sm12-102_hiresopt.jpg
 793,Nihilego,None
 794,Buzzwole,None
 795,Pheromosa,None
@@ -809,16 +809,16 @@ Number,Name,Card
 808,Meltan,None
 809,Melmetal,None
 810,Grookey,https://images.pokemoncard.io/images/swsh6/swsh6-16_hiresopt.jpg
-811,Thwackey,None
-812,Rillaboom,https://images.pokemoncard.io/images/swsh1/swsh1-15_hiresopt.jpg
+811,Thwackey,https://images.pokemoncard.io/images/swsh6/swsh6-17_hiresopt.jpg
+812,Rillaboom,https://images.pokemoncard.io/images/swsh6/swsh6-18_hiresopt.jpg
 813,Scorbunny,https://images.pokemoncard.io/images/swsh6/swsh6-26_hiresopt.jpg
 814,Raboot,https://images.pokemoncard.io/images/swsh6/swsh6-27_hiresopt.jpg
 815,Cinderace,https://images.pokemoncard.io/images/swsh1/swsh1-36_hiresopt.jpg
 816,Sobble,https://images.pokemoncard.io/images/swsh1/swsh1-54_hiresopt.jpg
-817,Drizzile,https://images.pokemoncard.io/images/swsh6/swsh6-42_hiresopt.jpg
-818,Inteleon,None
+817,Drizzile,https://images.pokemoncard.io/images/swsh1/swsh1-57_hiresopt.jpg
+818,Inteleon,https://images.pokemoncard.io/images/swsh6/swsh6-43_hiresopt.jpg
 819,Skwovet,https://images.pokemoncard.io/images/swsh6/swsh6-127_hiresopt.jpg
-820,Greedent,None
+820,Greedent,https://images.pokemoncard.io/images/swsh6/swsh6-128_hiresopt.jpg
 821,Rookidee,None
 822,Corvisquire,None
 823,Corviknight,None
@@ -871,7 +871,7 @@ Number,Name,Card
 870,Falinks,None
 871,Pincurchin,None
 872,Snom,None
-873,Frosmoth,None
+873,Frosmoth,https://images.pokemoncard.io/images/swsh1/swsh1-64_hiresopt.jpg
 874,Stonjourner,None
 875,Eiscue,None
 876,Indeedee,None
@@ -891,7 +891,7 @@ Number,Name,Card
 890,Eternatus,None
 891,Kubfu,https://images.pokemoncard.io/images/swsh6/swsh6-93_hiresopt.jpg
 892,Urshifu,None
-893,Zarude,None
+893,Zarude,https://images.pokemoncard.io/images/swsh6/swsh6-19_hiresopt.jpg
 894,Regieleki,None
 895,Regidrago,None
 896,Glastrier,None
@@ -915,7 +915,7 @@ Number,Name,Card
 914,Quaquaval,None
 915,Lechonk,None
 916,Oinkologne,None
-917,Tarountula,None
+917,Tarountula,https://images.pokemoncard.io/images/sv1/sv1-16_hiresopt.jpg
 918,Spidops,None
 919,Nymble,None
 920,Lokix,https://images.pokemoncard.io/images/sv2/sv2-21_hiresopt.jpg
@@ -938,7 +938,7 @@ Number,Name,Card
 937,Ceruledge,https://images.pokemoncard.io/images/sv2/sv2-98_hiresopt.jpg
 938,Tadbulb,https://images.pokemoncard.io/images/sv2/sv2-77_hiresopt.jpg
 939,Bellibolt,None
-940,Wattrel,None
+940,Wattrel,https://images.pokemoncard.io/images/sv1/sv1-77_hiresopt.jpg
 941,Kilowattrel,None
 942,Maschiff,None
 943,Mabosstiff,None
@@ -960,7 +960,7 @@ Number,Name,Card
 959,Tinkaton,None
 960,Wiglett,None
 961,Wugtrio,None
-962,Bombirdier,None
+962,Bombirdier,https://images.pokemoncard.io/images/sv1/sv1-138_hiresopt.jpg
 963,Finizen,None
 964,Palafin,None
 965,Varoom,None
@@ -975,8 +975,8 @@ Number,Name,Card
 974,Cetoddle,None
 975,Cetitan,None
 976,Veluza,https://images.pokemoncard.io/images/sv2/sv2-56_hiresopt.jpg
-977,Dondozo,None
-978,Tatsugiri,None
+977,Dondozo,https://images.pokemoncard.io/images/sv1/sv1-61_hiresopt.jpg
+978,Tatsugiri,https://images.pokemoncard.io/images/sv1/sv1-62_hiresopt.jpg
 979,Annihilape,None
 980,Clodsire,None
 981,Farigiraf,None
