@@ -43,7 +43,7 @@ if __name__ == '__main__':
     # começa a main do programa
 
     listapoke = open("listapoke.csv", "r")
-    htmldex = open("hrmldex.html", "w")
+    htmldex = open("htmldex.html", "w")
 
     # abre o arquivo com csv
     csvpoke = csv.reader(listapoke)

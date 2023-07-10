@@ -33,7 +33,7 @@ Number,Name,Card
 032,Nidoran,None
 033,Nidorino,None
 034,Nidoking,None
-035,Clefairy,https://images.pokemoncard.io/images/xy9/xy9-81_hiresopt.jpg
+035,Clefairy,https://images.pokemoncard.io/images/swsh11/swsh11-62_hiresopt.jpg
 036,Clefable,None
 037,Vulpix,https://images.pokemoncard.io/images/swsh1/swsh1-22_hiresopt.jpg
 038,Ninetales,https://images.pokemoncard.io/images/swsh1/swsh1-23_hiresopt.jpg
@@ -65,7 +65,7 @@ Number,Name,Card
 064,Kadabra,None
 065,Alakazam,None
 066,Machop,https://images.pokemoncard.io/images/sm2/sm2-62_hiresopt.jpg
-067,Machoke,None
+067,Machoke,https://images.pokemoncard.io/images/swsh11/swsh11-87_hiresopt.jpg
 068,Machamp,https://images.pokemoncard.io/images/swshp/swshp-SWSH053_hiresopt.jpg
 069,Bellsprout,None
 070,Weepinbell,None
@@ -307,7 +307,7 @@ Number,Name,Card
 306,Aggron,https://images.pokemoncard.io/images/swsh6/swsh6-111_hiresopt.jpg
 307,Meditite,https://images.pokemoncard.io/images/sv1/sv1-110_hiresopt.jpg
 308,Medicham,https://images.pokemoncard.io/images/swsh12/swsh12-73_hiresopt.jpg
-309,Electrike,https://images.pokemoncard.io/images/xy6/xy6-24_hiresopt.jpg
+309,Electrike,https://images.pokemoncard.io/images/swsh11/swsh11-54_hiresopt.jpg/////////////////////////
 310,Manectric,https://images.pokemoncard.io/images/swsh11/swsh11-55_hiresopt.jpg
 311,Plusle,None
 312,Minun,None
@@ -398,7 +398,7 @@ Number,Name,Card
 397,Staravia,None
 398,Staraptor,https://images.pokemoncard.io/images/sv1/sv1-150_hiresopt.jpg
 399,Bidoof,https://images.pokemoncard.io/images/swsh9/swsh9-120_hiresopt.jpg
-400,Bibarel,None
+400,Bibarel,https://images.pokemoncard.io/images/swsh9/swsh9-121_hiresopt.jpg
 401,Kricketot,https://images.pokemoncard.io/images/swsh10/swsh10-9_hiresopt.jpg
 402,Kricketune,https://images.pokemoncard.io/images/sm12/sm12-14_hiresopt.jpg
 403,Shinx,https://images.pokemoncard.io/images/xy9/xy9-44_hiresopt.jpg
@@ -715,7 +715,7 @@ Number,Name,Card
 714,Noibat,https://images.pokemoncard.io/images/sv2/sv2-152_hiresopt.jpg
 715,Noivern,None
 716,Xerneas,None
-717,Yveltal,None
+717,Yveltal,https://images.pokemoncard.io/images/cel25/cel25-19_hiresopt.jpg
 718,Zygarde,None
 719,Diancie,None
 720,Hoopa,None
@@ -895,7 +895,7 @@ Number,Name,Card
 894,Regieleki,None
 895,Regidrago,None
 896,Glastrier,None
-897,Spectrier,None
+897,Spectrier,https://images.pokemoncard.io/images/swsh11/swsh11-81_hiresopt.jpg
 898,Calyrex,None
 899,Wyrdeer,None
 900,Kleavor,None
